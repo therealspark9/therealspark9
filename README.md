@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ... dying
 - 🌱 I’m currently learning ... Data Science
 - 📫 How to reach me: ... Instagram, Twitter, YouTube.
 
